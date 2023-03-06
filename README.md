@@ -1,4 +1,4 @@
-<img width="300" style="float:center" 
+<img width="1000" style="float:center" 
      src="https://i.imgur.com/cE1WcON.jpg" />
 
 
@@ -12,8 +12,8 @@ This repository consists on an implementation of an object detector of COTS. Dev
 
 ## 2. Results
 
-* mAP50: 98.3%
-* mAP50-95: 68.3%
+* mAP50: `98.3%`
+* mAP50-95: `68.3%`
 
 
 
